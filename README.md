@@ -1,5 +1,5 @@
 # TicTacToe
-# Android App
+Android App
 Arjun Bansal 2110992517 BCA - 5A
 
  My journey began with a passion for learning Android development. Using Java and Android Studio, I started
